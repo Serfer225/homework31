@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
+
+.button button{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+#button3_1{
+    display: none;
+}
+
+#button1_2{
+    display: none;
+}
+#button2_1{
+    display: none;
+}
+
+.resume{
+    display: none;
+}
+.table_c{
+    width: 800px;
+    margin: auto;
+    -webkit-box-shadow: -79px -42px 6px 0px rgba(0, 0, 0, 0.66);
+    -moz-box-shadow: -79px -42px 6px 0px rgba(0, 0, 0, 0.66);
+    box-shadow: -79px -42px 6px 0px rgba(0, 0, 0, 0.66);
+}
+.img_foto {
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    width: 350px;
+    height: 300px;
+    background: url(https://serfer225.github.io/Lesson-4/img/WIN_20211006_21_35_13_Pro.jpg);
+    background-size: cover;
+}
+td {
+    border-bottom: 2px solid black;
+}
+h1 {
+    text-align: center;
+}
+.table_l, .table_r{
+    width: 360px;   
+}
+.table_c{
+    background-color: rgb(184, 174, 170);
+}
+.ancher{
+height: 150px;
+}
+.sosylka{
+    width: 100px;
+    height: 100px;
+    background-color: aqua; 
+    text-decoration: none;
+    border-color: aquamarine;
+    border: 2px, solid, black;
+    padding-right: 40px;
+    margin: 150px;
+    padding-top: 25px;
+    padding-left: 40px;
+    padding-bottom: 25px;
+
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Gemunu Libre', sans-serif;
+}
+.sosylka:hover{
+    background: -webkit-linear-gradient(135deg, rgb(51, 182, 49) 2%, rgb(54, 203, 208), rgb(9, 98, 182));
+    background: -moz-linear-gradient(135deg, rgb(51, 182, 49) 2%, rgb(54, 203, 208), rgb(9, 98, 182));
+    background: linear-gradient(135deg, rgb(51, 182, 49) 2%, rgb(54, 203, 208), rgb(9, 98, 182));
+    -webkit-box-shadow: 5px -1px 32px 20px rgba(29, 150, 187, 0.57);
+    -moz-box-shadow: 5px -1px 32px 20px rgba(29, 119, 187, 0.57);
+    box-shadow: 5px -1px 32px 20px rgba(29, 119, 187, 0.57);
+}
+table{
+    width: 1500px;
+     
+}
+.Glavnau{
+ color: gold 
+}
+body{
+    background-color: ivory;
+}   
